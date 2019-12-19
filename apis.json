@@ -1,0 +1,52 @@
+{
+    "name": "Devbridge Group",
+    "description": "We ship mission-critical software at scale, under aggressive deadlines. Our experienced teams deliver results 4x faster than industry average.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11268-devbridge-group.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/devbridge-group\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Devbridge Group",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11268-devbridge-group.jpg",
+            "humanURL": "https:\/\/www.devbridge.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/devbridge-group-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/devbridge-group"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@devbridge.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/devbridge"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.devbridge.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.devbridge.com"
+        }
+    ]
+}
